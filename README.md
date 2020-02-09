@@ -1,8 +1,16 @@
-# 说明
-在coursera上完成了deeplearning.ai 的前四门课程, 并取到证书, 然而手太慢, 之下载了前两门课的作业代码, session就到期了.
-等下次学习第五门课的时候再顺带下载吧.
+# Machine Learning Algorithms with Pure Numpy
+In 2018, before I got a job as machine learning engineer, I finished [data scientist path on dataquest](https://app.dataquest.io/verify_cert/KIQA63ATX2UUQU9AYTTA/) and [deep learning specialization taught by Andrew Ng](https://www.deeplearning.ai/deep-learning-specialization/).
+I learnt both machine learning and deep learning algorithms from these courses. During the last one year, I solved several real life problem with these techniques. In order to review these machine learning algorithm, I plan to code these algorithms with pure numpy in my spare time.
 
+# Project Strctures
+1. data/  data directory
+2. src/   source code
+3. Unittest/ unittest for source code
+4. deep_learning_courser_note/  course note for deep learning specialization
 
-# Questions
-1. NN
-    1. induction of loss function
+# Finished
+1. [Neural Network](src/NNModel.py)
+
+  
+
+ 
